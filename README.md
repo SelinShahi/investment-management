@@ -37,4 +37,5 @@ Matplotlib 📊
 
 This project is open-source and available under the MIT License ✅
 
-
+Screenshots:
+https://github.com/SelinShahi/investment-management/blob/main/images/Screenshot%202025-09-10%20134155.png?raw=true
